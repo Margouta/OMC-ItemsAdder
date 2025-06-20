@@ -1,0 +1,16 @@
+info:
+  namespace: omc_sounds
+minecraft_lang_overwrite:
+  deprime_by_ri1:
+    entries:
+      sound.deprime_by_ri1: "ri1_ - Déprime"
+    languages:
+    - ALL
+sounds:
+  sound_1:
+    path: deprime
+    settings:
+      subtitle: sound.deprime_by_ri1
+    jukebox:
+      enabled: true
+      description: "ri1_ - Déprime"
