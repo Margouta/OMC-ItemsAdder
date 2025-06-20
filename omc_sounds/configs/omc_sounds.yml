@@ -1,0 +1,12 @@
+info:
+  namespace: omc_sounds
+items:
+  deprime_by_ri1:
+    display_name: sound.deprime_by_ri1
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/deprime_by_ri1.png
+    jukebox_disc:
+      song: omc_sounds:deprime
